@@ -1,12 +1,10 @@
-
-import './App.css'
+import React from 'react';
+import Sunny from './sunny'
 
 function App() {
-  
-  return 
-   
-
-  
+  return (
+      <Sunny/>   
+  );
 }
 
-export default App
+export default App;
