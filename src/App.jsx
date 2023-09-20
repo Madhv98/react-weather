@@ -1,9 +1,14 @@
+import Rainy from "./rainy"
 
-import './App.css'
 
 function App() {
   
-  return 
+  return <>
+  
+  <Rainy />
+
+  
+  </>
    
 
   
