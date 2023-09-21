@@ -5,8 +5,8 @@ function Rainy() {
      const [weather, setWeather] = useState({
 
 temparature: '55℉',
-
 cityName: "HOUSTON"
+
  })
  return <>
 <div className={styles.container}>
@@ -18,13 +18,11 @@ cityName: "HOUSTON"
 
 
         </div>
-        <div>dfhdfd</div>
 
         </div>
        
         </>
     
-  
 }
 
 export default Rainy;

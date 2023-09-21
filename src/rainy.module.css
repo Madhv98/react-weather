@@ -1,20 +1,21 @@
-
 .box {
-    width: 25rem;
-    height: 25rem;
-    padding-top: 50px;
-    background-color: rgba(51, 103, 187, 0.956);
     text-align: center;
-    border-radius: 50px;
-border: 2px solid white;
+    font-family: Arial, sans-serif;
+    background-color: hwb(40 27% 71%);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: 0 auto;
+  }
 
 
-}
 .box img{
-    height: 10rem ;
-    width: 7rem;
-    border: 1px solid black;
-    border-radius:  10rem;
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px hsl(51, 3%, 43%);
    
 }
 .box h1 {
