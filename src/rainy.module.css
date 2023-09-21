@@ -1,0 +1,38 @@
+
+.box {
+    width: 25rem;
+    height: 25rem;
+    padding-top: 50px;
+    background-color: rgba(51, 103, 187, 0.956);
+    text-align: center;
+    border-radius: 50px;
+border: 2px solid white;
+
+
+}
+.box img{
+    height: 10rem ;
+    width: 7rem;
+    border: 1px solid black;
+    border-radius:  10rem;
+   
+}
+.box h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(232, 227, 239);
+}
+
+p{
+color: rgb(231, 224, 237);
+font-size: 25px;
+font-family: sans-serif;
+
+}
+body {
+    background-image: url(https://img.freepik.com/free-vector/cloud-with-falling-rain-background_1017-32364.jpg?w=2000);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+ 
+}
+ 
